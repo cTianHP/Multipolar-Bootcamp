@@ -2,7 +2,7 @@
 ## Backend Developer
 ---
 
-Repository beberapa kegiatan dan mini projects selama mengikuti kegiatan Bootcam yang diadakan oleh Multipolar di Departemen Matematika Institut Teknologi Sepuluh Nopember
+Repository beberapa kegiatan dan mini projects selama mengikuti kegiatan Bootcamp yang diadakan oleh Multipolar di Departemen Matematika Institut Teknologi Sepuluh Nopember
 
 ## Day 1
 1. Introduction to Java Programming
