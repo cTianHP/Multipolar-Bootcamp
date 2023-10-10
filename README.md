@@ -7,3 +7,6 @@ Repository beberapa kegiatan dan mini projects selama mengikuti kegiatan Bootcam
 ## Day 1 Materials
 1. Introduction to Java Programming
 2. Introduction to Spring Boot Framework
+
+## Day 2 Materials
+Membuat API dengan Spring Boot
